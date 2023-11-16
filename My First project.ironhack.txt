@@ -1,0 +1,3 @@
+Name: Carina
+Age: 28
+Favorite Color: Green
